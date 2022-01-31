@@ -8,6 +8,9 @@ https://hackmd.io/HxTioaPTSSyGGXVT1VKsEQ
 
 https://hackmd.io/kz-22VR_TLqeOrMCpfOmiQ
 
+## Stateless vs stateful auth
+https://hackmd.io/Jk41DcipRNyL1ST-kREfsA
+
 ---
 
 # Projects
