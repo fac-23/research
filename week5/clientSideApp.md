@@ -4,4 +4,4 @@
 
 ## Zodifac (Oli, Juliette and Milly) 👉 👉 👉  [Presentation Slides](https://hackmd.io/@5baKTzk6ST2z9INUl6N0hg/SJ_N1t-J9#/)
 
-##  FAC Quest (Miah and Paolo) 👉 👉 👉 [Presentation Slide](https://hackmd.io/@X8WIeYKnQqWtt9cXybMGOw/HkUWFAm1c#/)
+##  FAC Quest (Miah and Paolo) 👉 👉 👉 [Presentation Slides](https://hackmd.io/@X8WIeYKnQqWtt9cXybMGOw/HkUWFAm1c#/)
