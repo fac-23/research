@@ -2,12 +2,12 @@
 
 ## Tech Spike Presentations
 
-### [Lusan Spikes](https://hackmd.io/@X8WIeYKnQqWtt9cXybMGOw/B1ygkoxG9#/)
+### [Lusan Spikes](https://hackmd.io/@X8WIeYKnQqWtt9cXybMGOw/B1ygkoxG9#/) 🌱 
 
-### [Noesis Spikes]() :hourglass:
+### [Noesis Spikes](https://hackmd.io/@Rzoy6RK9Rdqj00rG-tkELA/HkI_bTeGc#/) 📖
 
 ## Team Presentations
 
-### [Lusan](https://hackmd.io/@X8WIeYKnQqWtt9cXybMGOw/SkmZ7gzfq#/)
+### [Lusan](https://hackmd.io/@X8WIeYKnQqWtt9cXybMGOw/SkmZ7gzfq#/) 🌱 
 
-### [Noesis]() :hourglass:
+### [Noesis](https://hackmd.io/@Rzoy6RK9Rdqj00rG-tkELA/Sk7vPgGfq) 📖
